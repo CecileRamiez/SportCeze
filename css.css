@@ -109,3 +109,24 @@ h1{
 	border-right: 5px solid black;
 
 }
+
+@media(min-width: 768px) and (max-width: 1388px)
+
+{
+
+ 
+
+body
+
+{
+
+            width :100% ;
+
+            padding :0px ;
+background: url('fond4.jpg');
+background-repeat: no-repeat;
+height: 100%;
+background-size: cover !important;
+background-attachment:fixed;
+
+}
