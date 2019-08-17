@@ -94,3 +94,41 @@ background-attachment:fixed;
 	background:rgba(16,16,16,.5);
 	border-right: 5px solid black;
 }
+
+.box{
+	position:relative;
+	max-width: 50%;
+	margin-top: 8%;
+	left: 40%;
+	padding: 4%;
+	background:rgba(16,16,16,.5);
+	box-shadow:0px 5px 15px rgba(0,0,0,.5);
+	width: 100%;
+
+}
+
+.box h2{
+	margin:0 0 20px;
+	padding: 0px;
+	font-size: 32px;
+	text-transform: uppercase;
+	color: #0444463;
+	font-family: 'Beth Ellen', cursive;
+	text-align: center;
+	color:grey;
+}
+
+.box p{
+	margin:0 0 20px;
+	padding: 0px;
+	font-size: 18px;
+	color: white;
+	text-align: justify;
+	text-align: center;
+	font-family:arial;
+}
+
+
+.rouge{
+	color:#46BECC;
+}
