@@ -1,7 +1,7 @@
 .box{
 	position:relative;
 	max-width: 23%;
-	margin-top: 10%;
+	margin-top: 5%;
 	left: 55%;
 	padding: 4%;
 	background:rgba(16,16,16,.5);
@@ -49,7 +49,13 @@ nav{
 
 
 }
-
+h1{
+	margin-left: 300px;
+	text-align:center;
+	margin-top: 15px;
+	font-family: 'Beth Ellen', cursive;
+	margin-bottom: 15px;
+}
 ul ul{
 	transition: all 0.3s;
 	opacity: 0;
