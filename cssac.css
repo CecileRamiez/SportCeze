@@ -20,7 +20,8 @@ a{
 	display: block;
 	padding: 20px 20px 20px 32px;
 	color: white;
-	font-size: 20px;
+	font-size: 18px;
+	margin-top: 10px;
 }
 
 ul ul.uld{
