@@ -1,9 +1,9 @@
 .box{
 	position:relative;
-	max-width: 23%;
-	margin-top: 7%;
-	left: 55%;
-	padding: 4%;
+	max-width: 30%;
+	margin-top: 10%;/**/
+	left: 49%;
+	padding: 5%;
 	background:rgba(16,16,16,.5);
 	box-shadow:0px 5px 15px rgba(0,0,0,.5);
 	width: 100%;
@@ -49,13 +49,7 @@ nav{
 
 
 }
-h1{
-	margin-left: 300px;
-	text-align:center;
-	margin-top: 15px;
-	font-family: 'Beth Ellen', cursive;
-	margin-bottom: 15px;
-}
+
 ul ul{
 	transition: all 0.3s;
 	opacity: 0;
@@ -116,9 +110,10 @@ background-attachment:fixed;
 	margin:0 0 20px;
 	padding: 0px;
 	font-size: 32px;
+	margin-bottom: 30px;
 	text-transform: uppercase;
 	color: #0444463;
-	font-family: 'Beth Ellen', cursive;
+	font-family:'Fjalla One', sans-serif;
 	text-align: center;
-	color:grey;
+	color:#9E9E9E;
 }
