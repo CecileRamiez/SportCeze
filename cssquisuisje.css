@@ -2,13 +2,7 @@
 	padding: 0px;
 	margin: 0px;
 }
-h1{
-	margin-left: 300px;
-	text-align:center;
-	margin-top: 15px;
-	font-family: 'Beth Ellen', cursive;
-	margin-bottom: 15px;
-}
+
 a{
 	text-decoration: none;
 	color: black;
@@ -105,7 +99,7 @@ background-attachment:fixed;
 .box{
 	position:relative;
 	max-width: 50%;
-	margin-top: 6%;
+	margin-top: 8%;
 	left: 40%;
 	padding: 4%;
 	background:rgba(16,16,16,.5);
@@ -120,9 +114,9 @@ background-attachment:fixed;
 	font-size: 32px;
 	text-transform: uppercase;
 	color: #0444463;
-	font-family: 'Beth Ellen', cursive;
+	font-family:'Fjalla One', sans-serif;
 	text-align: center;
-	color:grey;
+	color:#9E9E9E;
 }
 
 .box p{
