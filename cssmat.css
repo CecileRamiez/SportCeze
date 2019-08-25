@@ -2,13 +2,6 @@
 	padding: 0px;
 	margin: 0px;
 }
-h1{
-	margin-left: 300px;
-	text-align:center;
-	margin-top: 15px;
-	font-family: 'Beth Ellen', cursive;
-	margin-bottom: 15px;
-}
 a{
 	text-decoration: none;
 	color: black;
@@ -19,7 +12,6 @@ a{
 	margin-top: 10px;
 }
 
-
 ul ul.uld{
 	transition: all 0.3s;
 	opacity: 0;
@@ -28,7 +20,7 @@ ul ul.uld{
 	left:100%;
 	top: -2%;
 	border: 2px solid black;
-	margin-top: 350px;
+	margin-top: 320px;
 }
 ul{
 	list-style: none;
